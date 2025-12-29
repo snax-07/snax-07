@@ -24,7 +24,7 @@ I don't just write code; I build ecosystems. My philosophy centers on **clean ar
 
 ## ⚡ Technical Arsenal
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,fastapi,postgres,docker,aws,figma,tailwind,git,linux,mongodb,postman" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,py,fastapi,docker,aws,figma,tailwind,git,linux,mongodb,postman" />
 </p>
 
 ---
@@ -35,16 +35,21 @@ I don't just write code; I build ecosystems. My philosophy centers on **clean ar
 <table border="0">
  <tr>
     <td>
-      <h3>🚀 Project Alpha</h3>
-      <p>A high-performance distributed system built to handle millions of requests. Focuses on horizontal scaling.</p>
-      <p><b>Tech:</b> <code>Golang</code> <code>Redis</code> <code>Kubernetes</code></p>
-      <a href="#">[ View Experiment ]</a>
+      <h3>🚀 Crypto Bot Handler - Live Platform {About to LIVE}</h3>
+      <p>A high-performance distributed system built to handle crypto bots for per user and managing their lifecycle.</p>
+      <p><b>Tech:</b> <code>Golang</code> <code>Redis</code> <code>Kubernetes</code> <code>Node</code>
+        <code>NextJS</code>
+        <code>Docker</code>
+        <code>GRPC</code>
+        <code>Python</code>
+      </p>
+      <!-- <a href="#">[ View Experiment ]</a> -->
     </td>
     <td>
-      <h3>🎨 Neon UI</h3>
-      <p>An aesthetic, glassmorphic component library for React. Designed for deep UI details.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
-      <a href="#">[ Enter Gallery ]</a>
+      <h3>🎨 Automa {Working}</h3>
+      <p>The cli who generated the auth code using scaffolding mechanism which support the TypeScript and ExpressJS and also provide 3'rd Party Auth Provider Client</p>
+      <p><b>Tech:</b> <code>TypeScript</code>  <code>Javascript</code></p>
+      <!-- <a href="#">[ Enter Gallery ]</a> -->
     </td>
  </tr>
 </table>
@@ -53,7 +58,7 @@ I don't just write code; I build ecosystems. My philosophy centers on **clean ar
 
 ## 🏆 The Hall of Records
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=snax-07&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/api?username=snax-07&theme=tokyonight&no-bg=true&margin-w=15&column=3" alt="trophies" />
 </div>
 
 ---
@@ -75,9 +80,9 @@ I don't just write code; I build ecosystems. My philosophy centers on **clean ar
 ## 💬 The Social Philosophy
 > "I believe in the power of 'Hello World' – every great connection starts with a simple ping."
 
-- 🔭 **Current Focus:** Mastering [Insert Tech Here]
+- 🔭 **Current Focus:** Mastering  RAG Systems
 - 🤝 **Open to:** Open Source collaborations and technical discussions.
-- ⚡ **Fun Fact:** I drink [X] cups of coffee before my first commit.
+- ⚡ **Fun Fact:** I need music to start the coding.
 
 ---
 
