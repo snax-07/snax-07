@@ -2,52 +2,89 @@
 
 # Hi, I'm Swapnil 👋
 
-### Backend Engineer focused on scalable systems.
+### **Backend Engineer focused on scalable systems**
 
 ---
 
-### Tech Stack
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,redis,postgres,docker,express" />
+<p align="left">
+Backend Engineer with a strong foundation in designing low-latency, scalable, and resilient distributed backend systems. Passionate about clean architecture, event-driven designs, and optimizing core API throughput. Focused on taking complex backend challenges—from concurrent data streams to secure CLI tooling—and turning them into production-ready software.
 </p>
 
-`Node.js` • `TypeScript` • `Redis` • `PostgreSQL` • `Docker` • `WebSockets` • `Express`
+---
+
+### ⚡ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,redis,postgres,docker,express" alt="Tech Stack Icons" />
+</p>
+
+`Node.js` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Redis` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `WebSockets` &nbsp;•&nbsp; `Express.js`
 
 ---
 
-### Current Focus
+### 🎯 Current Focus
 
-• **Distributed Systems**  
-• **Backend Architecture**  
-• **High-performance APIs**  
-
----
-
-### Featured Projects
-
-🚀 **Distributed Crypto Trading Platform**  
-⚡ **Express Auth CLI (NPM)**  
-🧠 **Production-grade RAG (Building)**  
+* ⚙️ **Distributed Systems & Event-Driven Pipelines** — Caching strategies, message queuing, and state management.
+* 🏛️ **Backend Architecture & System Reliability** — Microservices patterns, modular code structures, and database optimization.
+* ⚡ **High-Throughput APIs & Low-Latency Engines** — Maximizing query performance, concurrent socket connections, and execution speed.
 
 ---
 
-### Achievements
+### 🚀 Featured Projects
 
-🏆 **Top 20/300+ Code for Bharat**  
-🥈 **HackHazar Runner-up**  
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/snax-07">
+        <h3>🚀 Distributed Crypto Trading Platform</h3>
+      </a>
+      <p>High-performance backend system engineered to handle concurrent automated trading bots and real-time order execution.</p>
+      <p><b>Tech:</b> <code>Node.js</code> <code>TypeScript</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code> <code>WebSockets</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/snax-07">
+        <h3>⚡ Express Auth CLI (NPM)</h3>
+      </a>
+      <p>Developer CLI tool designed for scaffolding secure, ready-to-use authentication layers in Express.js & TypeScript applications.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>NPM</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://github.com/snax-07">
+        <h3>🧠 Production-Grade RAG Pipeline <i>(In Progress)</i></h3>
+      </a>
+      <p>Building high-throughput retrieval-augmented generation backend infrastructure optimized for fast query execution and context retrieval.</p>
+      <p><b>Tech:</b> <code>TypeScript</code> <code>Node.js</code> <code>Redis</code> <code>PostgreSQL</code></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### Let's Connect
+### 🏆 Achievements
 
-[LinkedIn](https://linkedin.com/in/swapnil-nade-417242296/) • [Portfolio](your-portfolio-link.com) • [Email](mailto:swapnilnade07@icloud.com)
+• 🏆 **Top 20 / 300+ Teams** — *Code for Bharat Hackathon*  
+• 🥈 **Runner-Up** — *HackHazar Hackathon*  
 
-<br/>
+---
 
-<p center>
-<a href="https://linkedin.com/in/swapnil-nade-417242296/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:swapnilnade07@icloud.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/swapnil-nade-417242296/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:swapnilnade07@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 </div>
