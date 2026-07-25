@@ -37,14 +37,14 @@ Backend Engineer with a strong foundation in designing low-latency, scalable, an
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/snax-07">
+      <a href="https://github.com/snax-07/auto-crypto-trade-platform">
         <h3>🚀 Distributed Crypto Trading Platform</h3>
       </a>
       <p>High-performance backend system engineered to handle concurrent automated trading bots and real-time order execution.</p>
       <p><b>Tech:</b> <code>Node.js</code> <code>TypeScript</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code> <code>WebSockets</code></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/snax-07">
+      <a href="https://github.com/snax-07/Scaffolding-Auth-Cli">
         <h3>⚡ Express Auth CLI (NPM)</h3>
       </a>
       <p>Developer CLI tool designed for scaffolding secure, ready-to-use authentication layers in Express.js & TypeScript applications.</p>
@@ -82,7 +82,7 @@ Backend Engineer with a strong foundation in designing low-latency, scalable, an
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="your-portfolio-link.com" target="_blank">
+  <a href="https://swanax.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
   </a>
 </p>
