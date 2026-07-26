@@ -1,90 +1,124 @@
 <div align="center">
 
-# Hi, I'm Swapnil 👋
+# Swapnil Nade
 
-### **Backend Engineer focused on scalable systems**
+### Backend Engineer
 
----
+Building scalable backend systems with **Node.js**, **TypeScript**, and distributed architectures.
 
-### 👨‍💻 About Me
-
-<p align="left">
-Backend Engineer with a strong foundation in designing low-latency, scalable, and resilient distributed backend systems. Passionate about clean architecture, event-driven designs, and optimizing core API throughput. Focused on taking complex backend challenges—from concurrent data streams to secure CLI tooling—and turning them into production-ready software.
-</p>
-
----
-
-### ⚡ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,redis,postgres,docker,express" alt="Tech Stack Icons" />
-</p>
-
-`Node.js` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Redis` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Docker` &nbsp;•&nbsp; `WebSockets` &nbsp;•&nbsp; `Express.js`
-
----
-
-### 🎯 Current Focus
-
-* ⚙️ **Distributed Systems & Event-Driven Pipelines** — Caching strategies, message queuing, and state management.
-* 🏛️ **Backend Architecture & System Reliability** — Microservices patterns, modular code structures, and database optimization.
-* ⚡ **High-Throughput APIs & Low-Latency Engines** — Maximizing query performance, concurrent socket connections, and execution speed.
-
----
-
-### 🚀 Featured Projects
-
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/snax-07/auto-crypto-trade-platform">
-        <h3>🚀 Distributed Crypto Trading Platform</h3>
-      </a>
-      <p>High-performance backend system engineered to handle concurrent automated trading bots and real-time order execution.</p>
-      <p><b>Tech:</b> <code>Node.js</code> <code>TypeScript</code> <code>Redis</code> <code>PostgreSQL</code> <code>Docker</code> <code>WebSockets</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/snax-07/Scaffolding-Auth-Cli">
-        <h3>⚡ Express Auth CLI (NPM)</h3>
-      </a>
-      <p>Developer CLI tool designed for scaffolding secure, ready-to-use authentication layers in Express.js & TypeScript applications.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> <code>Node.js</code> <code>Express</code> <code>NPM</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/snax-07">
-        <h3>🧠 Production-Grade RAG Pipeline <i>(In Progress)</i></h3>
-      </a>
-      <p>Building high-throughput retrieval-augmented generation backend infrastructure optimized for fast query execution and context retrieval.</p>
-      <p><b>Tech:</b> <code>TypeScript</code> <code>Node.js</code> <code>Redis</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🏆 Achievements
-
-• 🏆 **Top 20 / 300+ Teams** — *Code for Bharat Hackathon*  
-• 🥈 **Runner-Up** — *HackHazar Hackathon*  
-
----
-
-### 🤝 Let's Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/swapnil-nade-417242296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<p>
+  <a href="https://linkedin.com/in/swapnil-nade-417242296">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="mailto:swapnilnade07@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:swapnilnade07@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://swanax.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio" />
+  <a href="https://swanax.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 </div>
+
+---
+
+## About
+
+Backend Engineer specialising in building scalable backend applications, distributed systems, and developer tooling.
+
+I enjoy designing maintainable architectures, building real-time systems, optimising APIs, and solving backend engineering problems using modern technologies.
+
+---
+
+## Engineering Interests
+
+- Distributed Systems
+- Backend Architecture
+- Event-Driven Systems
+- API Design
+- Developer Tooling
+- System Design
+- Performance Optimisation
+
+---
+
+## Tech Stack
+
+### Languages
+
+TypeScript • JavaScript
+
+### Backend
+
+Node.js • Express.js • REST APIs • WebSockets
+
+### Databases
+
+PostgreSQL • Redis
+
+### DevOps
+
+Docker • Git • GitHub Actions
+
+---
+
+## Featured Projects
+
+### 🚀 Distributed Crypto Trading Platform
+
+Scalable trading backend supporting concurrent trading bots using Redis Pub/Sub, Docker, PostgreSQL and WebSockets.
+
+**Tech**
+
+`Node.js` `TypeScript` `Redis` `PostgreSQL` `Docker` `WebSockets`
+
+🔗 https://github.com/snax-07/auto-crypto-trade-platform
+
+---
+
+### ⚡ Express Auth CLI
+
+CLI tool that scaffolds production-ready Express.js authentication with JWT and TypeScript.
+
+**Tech**
+
+`Node.js` `TypeScript` `Express` `NPM`
+
+🔗 https://github.com/snax-07/Scaffolding-Auth-Cli
+
+---
+
+### 🎬 SnaxTube
+
+Modern video sharing platform with authentication, uploads, playlists, subscriptions and creator workflows.
+
+**Tech**
+
+`Next.js` `Node.js` `PostgreSQL`
+
+---
+
+## Achievements
+
+🏆 Top 20 — Code for Bharat Hackathon (300+ Teams)
+
+🥈 Runner-up — HackHazar Hackathon
+
+---
+
+## Current Focus
+
+- Building production-grade backend systems
+- Distributed system design
+- Production-grade RAG infrastructure
+- Backend performance optimisation
+- Open-source developer tooling
+
+---
+
+## Let's Connect
+
+- Portfolio → https://swanax.vercel.app
+- LinkedIn → https://linkedin.com/in/swapnil-nade-417242296
+- GitHub → https://github.com/snax-07
+- Email → mailto:swapnilnade07@icloud.com
